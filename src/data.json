@@ -1,0 +1,120 @@
+{
+  "name": "Nikhil Mhatre",
+  "summary": "Lead engineer with a focus on building scalable systems that improve performance and reduce complexity. I've led projects that cut costs, sped up development, and made platforms easier to maintain.",
+  "contact": {
+    "phone": "+919869174413",
+    "email": "nikhil.mhatre93@gmail.com",
+    "github": {
+      "label": "devnikhilmhatre",
+      "url": "https://github.com/devnikhilmhatre"
+    },
+    "linkedin": {
+      "label": "nikhilmhatre93",
+      "url": "https://linkedin.com/in/nikhilmhatre93"
+    }
+  },
+  "skills": [
+    "Python",
+    "NodeJs",
+    "Kafka",
+    "MongoDB",
+    "SQL",
+    "Redis",
+    "React",
+    "AWS",
+    "GCP",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience": [
+    {
+      "company": "HighLevel",
+      "role": "Engineering Lead - Reputation",
+      "stack": "Node, Vue, TypeScript, MongoDB, GCP",
+      "startDate": "Dec 2025",
+      "endDate": "Present",
+      "summary": null,
+      "highlights": [
+        "Designed and built an end-to-end auto-detection workflow, from API integration to callback processing and suggestion generation.",
+        "Implemented SMS review request click tracking to help businesses identify customers who opened review links.",
+        "Worked on tech debt initiatives, including optimizing queries and improving platform performance."
+      ]
+    },
+    {
+      "company": "Fynd",
+      "role": "Engineering Lead - Logistics, Cart & Content",
+      "stack": "Python/FastAPI, NodeJs/Express, Kafka, MongoDB, PostgreSQL, Redis, GCP, Kubernetes",
+      "startDate": "Mar 2023",
+      "endDate": "May 2025",
+      "summary": "Lead a team of 10+ engineers in the design and development of the logistics system, cart-promotion system, and content management system.",
+      "highlights": [
+        "Improved logistics cost efficiency of sellers by leading the development of logistics management tools (rule engines for store, delivery partner, and packaging material selection) for an e-commerce platform, empowering effective inventory and delivery management.",
+        "Streamlined Delivery Partner (DP) integrations by architecting an ecosystem that used new APIs (focused on Dev-Ex) to enable both the creation and conversion of 8+ DP integrations (microservices), enhancing platform flexibility and reducing development team workload.",
+        "Designed a solution to enhance cart module performance by 30% by pre-processing complex promotion rules, streamlining the checkout process and improving overall user satisfaction.",
+        "Developed custom attribute system that empowers sellers with finer control over inventory management through dynamic rules. This system enables sellers to store and utilize specialized information beyond standard fields."
+      ]
+    },
+    {
+      "company": "Fynd",
+      "role": "Engineering Lead - Catalog",
+      "stack": "Python/Sanic, NodeJs/Express, Kafka, MongoDB, Solr, Redis, AWS, Kubernetes",
+      "startDate": "Sep 2021",
+      "endDate": "Feb 2023",
+      "summary": "Managed a cross-functional team of 7+ engineers across 6 e-commerce projects and supporting seamless operation across multiple production environments.",
+      "highlights": [
+        "Significantly improved Kafka consumer reliability by implementing idempotency, resulting in a 20% reduction in message drops.",
+        "Led a collaborative project with an external team, managing over 8 developers.",
+        "Educated new hires on Fynd's ecosystem and provided mentorship."
+      ]
+    },
+    {
+      "company": "Fynd",
+      "role": "Senior Software Developer",
+      "stack": "Python/Sanic, NodeJs/Express, Kafka, MongoDB, Solr, Redis, AWS, Docker, Kubernetes",
+      "startDate": "Jun 2019",
+      "endDate": "Sep 2021",
+      "summary": null,
+      "highlights": [
+        "Reduced seller onboarding time from 4 hours to near instantaneous by building and managing core e-commerce distributed systems: catalog and inventory.",
+        "Subsequently, developed a discount system to provide sellers with tools to create and manage discounts (e.g., percentage-based, fixed amount discounts), enabling them to attract customers and drive sales."
+      ]
+    },
+    {
+      "company": "Techzilla India Infotech",
+      "role": "Full Stack Developer",
+      "stack": "Python/Django, NodeJs, MongoDB, MariaDB, Redis, React, React Native, Angular, AWS, WebSockets",
+      "startDate": "Jan 2018",
+      "endDate": "May 2019",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "company": "SecureSight Technologies PVT LTD",
+      "role": "Tech Engineer - Sofware Developement",
+      "stack": "C#/ASP.NET, Javascript/JQuery, MS SQL",
+      "startDate": "Feb 2017",
+      "endDate": "Jan 2018",
+      "summary": null,
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "school": "Mumbai University",
+      "degree": "Bachelor of Engineering",
+      "year": "2016"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Get-Quote",
+      "url": "https://github.com/devnikhilmhatre/Get-Quote",
+      "description": "Developed a VS Code extension that displays motivational quotes on startup to enhance developer experience."
+    },
+    {
+      "name": "nsepy",
+      "url": "https://github.com/devnikhilmhatre/nsepy",
+      "description": "Python Library to get publicly available data on NSE website ie. stock quotes, historical data, live indices"
+    }
+  ]
+}
